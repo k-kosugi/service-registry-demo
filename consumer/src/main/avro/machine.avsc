@@ -1,0 +1,19 @@
+{
+  "namespace": "com.redhat.japan.demo.machine",
+  "type": "record",
+  "name": "Machine",
+  "fields": [
+    {
+      "name": "id",
+      "type": "string"
+    },
+    {
+      "name": "temp",
+      "type": "int"
+    },
+    {
+      "name": "rotation",
+      "type": "int"
+    }
+  ]
+}
